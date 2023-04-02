@@ -57,7 +57,6 @@ function Project() {
           Translation: the autism collaboration of Gelderland
           (Gelderland is the largest province in the Netherlands)
         </h2>
-
         <h2>
           <a href="https://autismegelderland.nl/">
             https://autismegelderland.nl/
@@ -66,7 +65,7 @@ function Project() {
         <hr />
         <div>
           <h2>Design</h2>
-          <p>We went for a clean and simple design choice</p>
+          <p>We chose a clean and simple design</p>
           <button
             style={designButtonStyle}
             type="button"
