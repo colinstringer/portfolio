@@ -1,0 +1,56 @@
+.project {
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-areas: ". container .";
+  background-color: rgb(220, 220, 220);
+}
+
+.project-container {
+  grid-area: container;
+
+  background-color: #0e2535;
+  min-width: 500px;
+  margin: 100px 0px 200px;
+  padding: 30px 50px;
+  box-shadow: 0 2px 8px 5px rgba(0, 0, 0, 0.35);
+  min-height: 80vh;
+  color: white;
+}
+
+.project h1 {
+  font-size: 3rem;
+}
+
+.project p {
+  font-size: 1.1rem;
+  line-height: 1.5em;
+}
+
+.project img {
+  margin-bottom: 5em;
+  width:100%;
+}
+
+.project hr {
+  margin-top: 3em;
+  margin-bottom: 3em;
+  border: 1px solid #37bea5;
+}
+
+.project button {
+  font-size: 1rem;
+  font-weight: 900;
+  font-family: Helvetica, sans-serif;
+  text-decoration: none;
+
+  cursor: pointer;
+  background: rgba(0, 0, 0, 0);
+  padding: 7px 20px;
+  color: rgb(204, 204, 204);
+  border: rgb(204, 204, 204) 2px solid;
+  border-radius: 25px;
+}
+
+.project a {
+  color: white;
+}
