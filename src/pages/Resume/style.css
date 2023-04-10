@@ -47,7 +47,16 @@
   padding: 20px;
 }
 
+.highlight {
+  color: #00ffd0;
+  /* text-decoration: underline; */
+}
+
 @media only screen and (max-width: 1000px) {
+  .page {
+    grid-template-columns: none;
+  }
+
   .body {
     display: grid;
   grid-template-columns: 8fr 2fr;
@@ -55,6 +64,19 @@
   "right"
   "left";
   padding: 20px;
+  }
+
+  .header {
+    display: block;
+    grid-template-columns: none;
+  }
+
+  .header-image {
+    display: none;
+  }
+
+  .resume {
+    margin: 0;
   }
 }
 

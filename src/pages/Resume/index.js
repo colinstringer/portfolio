@@ -83,7 +83,7 @@ function resume() {
               </a>
             </p>
             <p style={{ fontStyle: "italic" }}>Doorwerth, 2021-2022</p>
-            <h3>Frontend Angular development • Micpoint B.V.</h3>
+            <h3 className="highlight">Frontend Angular development • Micpoint B.V.</h3>
             <p>
               My second working experience as a developer was as a frontend
               Angular developer in Micpoint. Micpoint is a small B2B oriented
@@ -107,7 +107,7 @@ function resume() {
               how old its technology is.
             </p>
             <p style={{ fontStyle: "italic" }}>Houten, 2022-2023</p>
-            <h3>Scrum Master • Micpoint B.V.</h3>
+            <h3 className="highlight">Scrum Master • Micpoint B.V.</h3>
             <p>
               After 2 months of working at Micpoint, the team recognized that I
               am highly structured in my work-flow and assertive when dealing
