@@ -1,6 +1,6 @@
 import "./style.css";
 import React from "react";
-import { FaLinkedin, FaLanguage, FaCodepen } from "react-icons/fa";
+import { FaLanguage, FaCodepen } from "react-icons/fa";
 import { FiPhone, FiBook } from "react-icons/fi";
 import { GoMail } from "react-icons/go";
 import { TiCalendar } from "react-icons/ti";
