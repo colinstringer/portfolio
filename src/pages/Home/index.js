@@ -16,8 +16,8 @@ function Home() {
           <br /> Welcome to my portfolio website
         </h1>
         <h2>
-          I'm a junior/medior Angular developer who is looking for a remote job
-          opportunity
+          I'm a software developer who is looking for job opportunity as a
+          software tester
         </h2>
       </div>
       <div className="card card3">

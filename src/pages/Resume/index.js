@@ -13,8 +13,8 @@ function resume() {
         <div className="header">
           <div className="header-text">
             <h1>Colin Stringer</h1>
-            <h2>Junior/Medior Angular developer</h2>
             <h2>~ 2 years experience as a software developer</h2>
+            <h2>Now looking for a job opportunity as a software tester</h2>
             <br />
             <p>
               <MdLocationCity /> • Ede, Gelderland
@@ -27,16 +27,6 @@ function resume() {
             </p>
             <p>
               <GoMail /> • colinstringer2@gmail.com
-            </p>
-            <p>
-              <FaLinkedin /> •{" "}
-              <a
-                href="https://www.linkedin.com/in/colin-stringer-608b50270/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                LinkedIn
-              </a>
             </p>
           </div>
           <div className="header-image">
@@ -54,36 +44,9 @@ function resume() {
               <MdWork /> Work Experience
             </h2>
             <hr />
-            <h3>Working abroad in a Bed and Breakfast</h3>
-            <p>
-              In 2017-2018 I spent some time looking for my Scottish roots. You
-              see, my grandfather that I never met was Scottish. He passed away
-              before I was born. Scotland is certainly the most beautiful
-              country that I've seen.
-            </p>
-            <p style={{ fontStyle: "italic" }}>Scotland Insch, 2017-2018</p>
-            <h3>Trainer • GGD</h3>
-            <p>
-              In 2021 trained hundreds of new customer service agents for the
-              Dutch GGD covid project (vaccinations and tests).
-            </p>
-            <p style={{ fontStyle: "italic" }}>Remote 2020-2021</p>
-            <h3>Full stack web development • wewerken</h3>
-            <p>
-              My first working experience in IT was at 'wewerken'. Very shortly
-              after I joined their team, I started working on their largest and
-              most challenging project thus far, for an organisation called
-              "SAG" which stands for Samenwerkingsverband Autisme Gelderland. In
-              total, my contribution for this project was about 90% of the total
-              effort.
-            </p>
-            <p>
-              <a target="_blank" href="/project">
-                View here for more details.
-              </a>
-            </p>
-            <p style={{ fontStyle: "italic" }}>Doorwerth, 2021-2022</p>
-            <h3 className="highlight">Frontend Angular development • Micpoint B.V.</h3>
+            <h3 className="highlight">
+              Frontend Angular development • Micpoint B.V.
+            </h3>
             <p>
               My second working experience as a developer was as a frontend
               Angular developer in Micpoint. Micpoint is a small B2B oriented
@@ -117,6 +80,36 @@ function resume() {
               training and scrum master examination to make it official.
             </p>
             <p style={{ fontStyle: "italic" }}>Houten, 2022-2023</p>
+            <h3>Working abroad in a Bed and Breakfast</h3>
+            <p>
+              In 2017-2018 I spent some time looking for my Scottish roots. You
+              see, my grandfather that I never met was Scottish. He passed away
+              before I was born. Scotland is certainly the most beautiful
+              country that I've seen.
+            </p>
+            <p style={{ fontStyle: "italic" }}>Scotland Insch, 2017-2018</p>
+            <h3>Trainer • GGD</h3>
+            <p>
+              In 2021 trained hundreds of new customer service agents for the
+              Dutch GGD covid project (vaccinations and tests).
+            </p>
+            <p style={{ fontStyle: "italic" }}>Remote 2020-2021</p>
+            <h3>Full stack web development • wewerken</h3>
+            <p>
+              My first working experience in IT was at 'wewerken'. Very shortly
+              after I joined their team, I started working on their largest and
+              most challenging project thus far, for an organisation called
+              "SAG" which stands for Samenwerkingsverband Autisme Gelderland. In
+              total, my contribution for this project was about 90% of the total
+              effort.
+            </p>
+            <p>
+              <a target="_blank" href="/project">
+                View here for more details.
+              </a>
+            </p>
+            <p style={{ fontStyle: "italic" }}>Doorwerth, 2021-2022</p>
+
             <br />
             <h2>
               <FaLanguage /> Languages
