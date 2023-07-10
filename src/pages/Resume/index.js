@@ -171,10 +171,13 @@ function resume() {
             <h3>Communication / Teaching skill</h3>
             <p>
               I'm great at adapting that which I need to explain to the
-              understanding-level of the person who is listening. I never look
-              down on someone for having less intelligence than others. Some
-              people just need that one little extra bit before the light
-              switches on, and there's no shame in that.
+              understanding-level or experience-level of the person who is
+              listening. I never look down on someone who doesn't pick up new
+              ideas as fast as others. Some people just need that one little
+              extra bit before the light switches on, and there's no shame in
+              that.
+
+              I have 7 years of experience in math tutoring - high school level. 
             </p>
             <h3>Highly structured</h3>
             <p>
