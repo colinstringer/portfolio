@@ -15,9 +15,9 @@ function Home() {
           Hi, I'm Colin!
           <br /> Welcome to my portfolio website
         </h1>
+        <h2>Previously a Scrum Master and Software Developer,</h2>
         <h2>
-          I'm a software developer who is looking for job opportunity as a
-          software tester
+          Now looking for a job opportunity in IT Consultation or IT Support
         </h2>
       </div>
       <div className="card card3">
@@ -27,7 +27,7 @@ function Home() {
         </a>
       </div>
       <div className="card card4">
-        <h3>My portfolio project (2021)</h3>
+        <h3>My web development portfolio project (2021)</h3>
         <div className="latest-project">
           <a href="project" target="_blank" rel="noopener noreferrer">
             view
