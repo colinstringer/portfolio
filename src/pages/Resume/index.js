@@ -75,23 +75,7 @@ function resume() {
               their fleet data.
             </p>
             <p style={{ fontStyle: "italic" }}>Houten, 2022-2023</p>
-            <h3 className="highlight">Helpdesk Agent • GGD</h3>
-            <p>
-              In 2020 I worked as a helpdesk agent for the Dutch GGD covid
-              project (vaccinations and tests).
-            </p>
-            <p style={{ fontStyle: "italic" }}>Fully Remote, 2020</p>
-
-            <h3 className="highlight">Math tutor</h3>
-            <p>
-              As a Math Tutor, I provided personalized instruction and guidance
-              to students seeking to strengthen their mathematical skills.
-              Tailoring my approach to each student's needs, I fostered an
-              engaging and supportive learning environment that promoted
-              understanding and confidence in mathematical concepts.
-            </p>
-            <p style={{ fontStyle: "italic" }}>Veenendaal, 2014-2021</p>
-            <h3>Trainer of helpdesk agents • GGD</h3>
+            <h3 className="highlight">Trainer of helpdesk agents • GGD</h3>
             <p>
               In 2020-2021 I trained hundreds of new helpdesk agents for the
               Dutch GGD covid project (vaccinations and tests). This function
@@ -103,6 +87,23 @@ function resume() {
               and occasionally 1-on-1
             </p>
             <p style={{ fontStyle: "italic" }}>Fully Remote, 2021</p>
+            <h3 className="highlight">Helpdesk Agent • GGD</h3>
+            <p>
+              In 2020 I worked as a helpdesk agent for the Dutch GGD covid
+              project (vaccinations and tests).
+            </p>
+            <p style={{ fontStyle: "italic" }}>Fully Remote, 2020</p>
+
+            <h3>Math tutor</h3>
+            <p>
+              As a Math Tutor, I provided personalized instruction and guidance
+              to students seeking to strengthen their mathematical skills.
+              Tailoring my approach to each student's needs, I fostered an
+              engaging and supportive learning environment that promoted
+              understanding and confidence in mathematical concepts.
+            </p>
+            <p style={{ fontStyle: "italic" }}>Veenendaal, 2014-2021</p>
+
             <h3>Working abroad in a B&B • Scotland</h3>
             <p>
               In 2017-2018 I spent some time looking for my Scottish roots. You
@@ -124,12 +125,12 @@ function resume() {
               <FiBook /> Education{" "}
             </h2>
             <hr />
-            <h3>HBO Computer Science (informatica) • Propedeuse - cum laude</h3>
-            <p>Avans hogeschool </p>
-            <p style={{ fontStyle: "italic" }}>Den Bosch, 2016-2017</p>
             <h3>Full stack web development bootcamp</h3>
             <p>Codaisseur • 3 month intensive web development training</p>
             <p style={{ fontStyle: "italic" }}>Amsterdam, 2020</p>
+            <h3>HBO Computer Science (informatica) • Propedeuse - cum laude</h3>
+            <p>Avans hogeschool </p>
+            <p style={{ fontStyle: "italic" }}>Den Bosch, 2016-2017</p>
             <br />
             <h2>
               <FaCertificate /> Certifications
@@ -141,6 +142,15 @@ function resume() {
             </p>
             <h3>Software Tester Foundation • ISTQB</h3>
             <p>Certified Tester Foundation Level • CTFL</p>
+            <br />
+            <h2>
+              <FaCodepen /> Technical Skills
+            </h2>
+            <hr />
+            <p>
+              Microsoft 365 • Microsoft Devops • Windows Desktop • Git(Hub) •
+              Visual Studio Code • Ubuntu (Linux) • Slack • Chrome DevTools
+            </p>
             <br />
             <h2>
               <FaCodepen /> Soft Skills
@@ -179,9 +189,7 @@ function resume() {
               solutions to streamline processes.
             </p>
             <h3>An unquenchable thirst for learning</h3>
-            <p>
-              I just love learning.
-            </p>
+            <p>I just love learning.</p>
             <br />
           </div>
         </div>
